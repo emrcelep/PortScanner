@@ -15,6 +15,7 @@
 - **⚡ Hız ve Etkinlik:** Yüksek hızda ve doğru sonuçlar elde eder.
 - **📋 Raporlama:** Taranan portların durumunu raporlar.
 - **🔒 Güvenlik:** Ağ güvenliği ve değerlendirmeleri için mükemmeldir.
+- **➡️ İlerleme:** Tarama sırasında ilerleme durumunu terminal başlığında gösterir.
 
 ---
 
